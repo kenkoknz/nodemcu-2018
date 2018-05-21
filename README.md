@@ -34,7 +34,12 @@ Witty cloud; esp8266F
 Includes ldr; rgb led; 
 http://www.instructables.com/id/Witty-Cloud-Module-Adapter-Board/
 https://yoursunny.com/t/2016/WittyCloud-first/
+
+
 projects:
 light sensor to switch:http://www.instructables.com/id/ESP8266ESP12-Witty-Cloud-Arduino-Powered-SmartThin/
+http://henrysbench.capnfatz.com/henrys-bench/arduino-projects-tips-and-more/arduino-esp8266-lolin-nodemcu-getting-started/
+
+
 
 
