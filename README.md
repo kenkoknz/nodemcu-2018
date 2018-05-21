@@ -6,8 +6,8 @@ There are few versions of nodemcu: https://frightanic.com/iot/comparison-of-esp8
 https://www.youtube.com/watch?v=YQadLyBwz3M
 ---------------
 serial pins:
-Pin(1) = GPIO1 = TXD0
-Pin(3) = GPIO3 = RXD0
+GPIO1 = TXD0
+GPIO3 = RXD0
 ------------------
 
 Nodemcu v2: purchased this from geek studio:
