@@ -1,4 +1,4 @@
-//nodemcu v3; no on board led only in esp8266 gpio 2; sw reset & sw gpio 0;
+//nodemcu v3; no on board led only in esp8266 gpio 2; 2 button switches:sw= reset & sw =gpio 0;
 //kk DHT11, with counter working
 
 
