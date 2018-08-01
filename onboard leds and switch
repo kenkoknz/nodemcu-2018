@@ -1,0 +1,5 @@
+gpio 2, blue led on esp,  0 is on 1 is off
+gpio 16, red led, 0 is on 1 is off  
+
+Reset connected to reset pin
+Flash connected tonodemcu on board witch
