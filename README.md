@@ -4,17 +4,20 @@ Nodemcu
 Advantage of nocemcu is that all the psu and serial interface support chips are inclused. 
 There are few versions of nodemcu: https://frightanic.com/iot/comparison-of-esp8266-nodemcu-development-boards/
 https://www.youtube.com/watch?v=YQadLyBwz3M
----------------
+
 serial pins:
 GPIO1 = TXD0
 GPIO3 = RXD0
-------------------
 
-Nodemcu v2: purchased this from geek studio:
-
+circuit: https://github.com/nodemcu/nodemcu-devkit-v1.0/blob/master/NODEMCU_DEVKIT_V1.0.PDF
 
 
-Nodemcu v3: purchased from breadboards 
+Nodemcu v2: purchased this from geek studio: driver cp2102:
+https://roboindia.com/tutorials/nodemcu-amica-esp8266-board-installation
+https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
+
+
+Nodemcu v3: purchased from breadboards: drivers ch340g 
 
 
 some links:
