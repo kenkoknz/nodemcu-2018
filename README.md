@@ -26,11 +26,9 @@ http://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/
 
 -----------------------------
 Variations of nodemcu: Wemos, Witty cloud
+
 ----------------------------
-Wemos
-
-
-
+Wemos: see github on wemos
 
 ------------------------------
 Witty cloud; esp8266F
